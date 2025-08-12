@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/ARY_Digital_Logo.png" group-title="Pakistan",Ary Digital
+https://arydigital.aryzap.com/59c5218e3ecda66dc043b0fa40a093a1/689c3c9a/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=d06d7275-91c4-4a0a-b74e-4d7973a72003
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_News_Logo.png" group-title="Pakistan",Ary News
+https://arynews.aryzap.com/b172e132a0f45474de36893b3d688865/689c3ccc/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=79327348-627f-49fc-a1d1-9e854c11cc2e
+
+#EXTINF:-1 group-title="Pakistan",Geo News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755005695/ei/n-6aaOOTCJG-zPsP_vW30AE/ip/2407:aa80:15:f674:b172:be0c:8de8:326/id/O3DPVlynUM0.1623/itag/95/source/yt_live_broadcast/...
+
+#EXTINF:-1 group-title="Pakistan",Ten Sports
+https://new.ptvcrickethd.com/pak/media.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",PTV
+https://ptv.com.pk/d53f62d1-55b8-4ee5-9ac0-ab5e2b3cfa3c
+
+#EXTINF:-1 group-title="Pakistan",Dawn
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755006619/...
+
+#EXTINF:-1 group-title="Pakistan",Sammaa
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755006750/...
+
+#EXTINF:-1 group-title="Pakistan",Hum TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8?nimblesessionid=29293748&wmsAuthSign=...
+
+#EXTINF:-1 group-title="Pakistan",Geo Kahani
+http://stream5.qtelmedia.com:1935/live/Geo_News_DMD/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Green Entertainment
+https://myco.telflex.net:8088/GREENENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
+
+#EXTINF:-1 group-title="Pakistan",Myco Sports
+https://myco.io/videohome/683837d04af76c0b35ca39e9
