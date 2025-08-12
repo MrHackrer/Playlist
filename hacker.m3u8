@@ -13,3 +13,26 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
 #EXTINF:-1 group-title="Dubai",Dubai Sports
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Hum Tv
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjEzOjI2IEFNJmhhc2hfdmFsdWU9b01SWFlJYjlTSEVqcFQ5ZjBac2RJZz09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:-1 group-title="Pakistan",Geo Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjEyOjUzIEFNJmhhc2hfdmFsdWU9MmxoZzJITEVsTHZTMEZSMExpQW1nQT09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:-1 group-title="Pakistan",Geo News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjEyOjIwIEFNJmhhc2hfdmFsdWU9TENNbXJnallQbDVldzJteGZ1V0tvZz09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:-1 group-title="Pakistan",Ptv Sports
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjExOjM5IEFNJmhhc2hfdmFsdWU9K3pPTU5pN01VN1Y0Z0UzT3R4VEFQdz09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:-1 group-title="Pakistan",Ary News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8?nimblesessionid=22528010&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjAzOjAwIEFNJmhhc2hfdmFsdWU9TXg2eE5SbENkRGwvWEtYdHltR2I3dz09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:-1 group-title="Pakistan",Ary Digital
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDExOjEwOjA4IEFNJmhhc2hfdmFsdWU9Y2RuOEFlQWtJakJoV3oyeFY3TGNnUT09JnZhbGlkbWludXRlcz0xMA==
