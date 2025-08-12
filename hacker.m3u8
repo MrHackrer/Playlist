@@ -5,4 +5,11 @@
 #EXTINF:-1 group-title="Pakistan",Green Entertainment
 https://myco.telflex.net:8088/GREENENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
 
+#EXTINF:-1 group-title="India",HindiHits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
+#EXTINF:-1 group-title="India",HindiMovies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1 group-title="Dubai",Dubai Sports
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
