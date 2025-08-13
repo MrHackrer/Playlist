@@ -67,3 +67,28 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1,Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+
+
+#EXTINF:-1,Playlist 11
+http://xott.live:8080/live/Shahid/12345/270496.m3u8
+#EXTINF:-1,Playlist 17
+http://xott.live:8080/live/Shahid/12345/270502.m3u8
+#EXTINF:-1,Playlist 10
+http://xott.live:8080/live/Shahid/12345/270495.m3u8
+#EXTINF:-1,CRIME PATROL 2.0 24x7
+http://xott.live:8080/live/Shahid/12345/340876.m3u8
+#EXTINF:-1,Playlist 15
+http://xott.live:8080/live/Shahid/12345/270500.m3u8
+#EXTINF:-1,63 BOLLYWOOD MOVIES 24/7
+http://xott.live:8080/live/Shahid/12345/362978.m3u8
+#EXTINF:-1,Playlist 16
+http://xott.live:8080/live/Shahid/12345/270501.m3u8
+#EXTINF:-1,01 BLOCKBUSTER
+http://xott.live:8080/live/Shahid/12345/341039.m3u8
+#EXTINF:-1,01 TOLLYWOOD MOVIES 24/7
+http://xott.live:8080/live/Shahid/12345/253596.m3u8
+#EXTINF:-1,67 BOLLYWOOD MOVIES 24/7
+http://xott.live:8080/live/Shahid/12345/362982.m3u8
+#EXTINF:-1,02 BLOCKBUSTER
+http://xott.live:8080/live/Shahid/12345/341040.m3u8
+
